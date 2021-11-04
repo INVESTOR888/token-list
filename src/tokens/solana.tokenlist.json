@@ -70,7 +70,22 @@
 		"extensions": {
 			"website": "https://stether.io/"
 		}
-	},
+},
+  { "chainId": 101,
+  "address": "F9tytWqLUAPXQTy6dejGtSgvJQZWYC71naD5bCi6caGX",
+  "symbol": "INUGAMI",
+  "name": "INUGAMI Coin",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/INVESTOR888/content/main/F9tytWqLUAPXQTy6dejGtSgvJQZWYC71naD5bCi6caGX.png",
+  "tags": [
+    "meme-coin"
+  ],
+  "extensions": {
+    "website": "https://inugamicoin.com",
+    "twitter": "https://twitter.com/inugamicoin",
+    "discord":"https://discord.gg/sgSAqyzfEF"
+    }
+},
 	{
 		"chainId": 102,
 		"address": "8ZY7EkwN7LxifYvvrQDbpjqxkrjHUFMwWgq8fupNNvub",
@@ -21733,4 +21748,4 @@
   "extensions": {
     "website": "https://www.uown.co"
   }
-}
+}  
